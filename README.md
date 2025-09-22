@@ -1,5 +1,9 @@
 # About Me
 
+Hi, I’m Maria 👋
+
+I’m a backend developer with a focus on Python and Django. Previously worked in business automation and ERP systems. Currently exploring backend engineering, APIs, and scalable solutions.
+
 ## Skills
 
 **Languages & Frameworks**  
@@ -29,12 +33,6 @@
 ![Pytest](https://img.shields.io/badge/Pytest-used-0080FF?logo=pytest&logoColor=white)
 ![Flake8](https://img.shields.io/badge/Flake8-style-2C3E50)
 
-
-Hi, I’m Maria 👋
-
-I’m a backend developer with a focus on Python and Django. Previously worked in business automation and ERP systems. Currently exploring backend engineering, APIs, and scalable solutions.
-
-Earlier in my career, I worked with small and medium businesses to design and implement ERP-based automation solutions, balancing deep understanding of each company’s needs with building adaptable frameworks.
 
 I combine my technical skills with my experience in process optimization and business analysis to build efficient, scalable, and user-focused solutions.
 
